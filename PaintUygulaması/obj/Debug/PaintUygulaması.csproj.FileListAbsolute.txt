@@ -1,0 +1,11 @@
+C:\Users\MSI\Desktop\Berkan Yazılım c#\PaintUygulaması\PaintUygulaması\obj\Debug\PaintUygulaması.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Berkan Yazılım c#\PaintUygulaması\PaintUygulaması\obj\Debug\PaintUygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\Desktop\Berkan Yazılım c#\PaintUygulaması\PaintUygulaması\obj\Debug\PaintUygulaması.Form1.resources
+C:\Users\MSI\Desktop\Berkan Yazılım c#\PaintUygulaması\PaintUygulaması\obj\Debug\PaintUygulaması.Properties.Resources.resources
+C:\Users\MSI\Desktop\Berkan Yazılım c#\PaintUygulaması\PaintUygulaması\obj\Debug\PaintUygulaması.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\Berkan Yazılım c#\PaintUygulaması\PaintUygulaması\obj\Debug\PaintUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Berkan Yazılım c#\PaintUygulaması\PaintUygulaması\bin\Debug\PaintUygulaması.exe.config
+C:\Users\MSI\Desktop\Berkan Yazılım c#\PaintUygulaması\PaintUygulaması\bin\Debug\PaintUygulaması.exe
+C:\Users\MSI\Desktop\Berkan Yazılım c#\PaintUygulaması\PaintUygulaması\bin\Debug\PaintUygulaması.pdb
+C:\Users\MSI\Desktop\Berkan Yazılım c#\PaintUygulaması\PaintUygulaması\obj\Debug\PaintUygulaması.exe
+C:\Users\MSI\Desktop\Berkan Yazılım c#\PaintUygulaması\PaintUygulaması\obj\Debug\PaintUygulaması.pdb
